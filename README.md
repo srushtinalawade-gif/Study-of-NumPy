@@ -6,13 +6,13 @@
 To study the NumPy library and perform basic operations on NumPy arrays.
 ## Objectives 
 
-Generate various NumPy array configurations. 
+>Generate various NumPy array configurations. 
 
-Execute arithmetic and mathematical computations on datasets. 
+>Execute arithmetic and mathematical computations on datasets. 
 
-Examine array properties and master element selection via indexing. 
+>Examine array properties and master element selection via indexing. 
 
-Utilize integrated NumPy methods for data processing. 
+>Utilize integrated NumPy methods for data processing. 
 
 
 ## System & Software Needs 
