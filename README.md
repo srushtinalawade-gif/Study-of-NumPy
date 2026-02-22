@@ -1,4 +1,4 @@
-# Study-of-NumPy
+# Study-of-Numpy
 ## Name- Srushti J. Nalawade
 ## PRN- 25070123157
 ## Batch- A1
